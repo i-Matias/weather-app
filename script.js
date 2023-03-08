@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const search = document.getElementById("search");
     const main = document.getElementById("main");
 
-    const url = (city) => `http://api.weatherapi.com/v1/current.json?key=${apikey}&q=${city}&aqi=no`;
+    const url = (city) => `https://api.weatherapi.com/v1/current.json?key=${apikey}&q=${city}&aqi=no`;
     let weatherdata;
 
     async function fetchWeatherData(city) {
