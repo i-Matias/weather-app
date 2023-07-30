@@ -12,9 +12,7 @@
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [API Key](#api-key)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
