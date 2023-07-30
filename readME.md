@@ -11,7 +11,7 @@
 - [Demo](#demo)
 - [Features](#features)
 - [Getting Started](#getting-started)
-- [Usage](#usage)
+
 
 
 ## Introduction
