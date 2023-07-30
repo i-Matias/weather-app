@@ -1,6 +1,5 @@
 #Weather App
 
-<https://storied-faun-73821a.netlify.app/>
 
 # Weather Project
 
@@ -23,7 +22,7 @@ The Weather Project is a simple web application that allows users to retrieve an
 
 ## Demo
 
-Provide a link to the live demo of your weather project here.
+<https://storied-faun-73821a.netlify.app/>
 
 ## Features
 
